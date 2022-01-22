@@ -12,6 +12,7 @@ Baixar o Banco de Dados MySQL https://downloads.mysql.com/archives/workbench/
 
 Passo a passo de como utilizar o programa LRB - Sistema de gestão de condomínios:
 
+1 - Criando o banco de dados no MySQL;
 Primeiramente, é nescessário possuir todas as ferramentas instaladas acima antes de executar o projeto. Ao instalar o banco de dados MySQL, recomenda-se a versão 8.0.26. Então, abra o arquivo "desafioapcoders.sql", que é o CRUD das tabelas do programa, copie e cole-o dentro do MySQL e execute todas as linhas para criar todas as suas tabelas.
 
 Obs: 
