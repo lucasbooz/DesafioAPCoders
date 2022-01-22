@@ -11,3 +11,5 @@ Baixar a JDK 15 https://www.oracle.com/java/technologies/javase/jdk15-archive-do
 Baixar o Banco de Dados MySQL https://downloads.mysql.com/archives/workbench/
 
 Passo a passo de como utilizar o programa LRB - Sistema de gestão de condomínios
+
+Primeiramente, é nescessário possuir todas as ferramentas instaladas acima antes de executar o projeto. Ao instalar o banco de dados MySQL, recomenda-se a versão 8.0.26. Então, crie um banco de dados chamado "desafioapcoders"
