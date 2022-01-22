@@ -17,3 +17,5 @@ Primeiramente, é nescessário possuir todas as ferramentas instaladas acima ant
 
 Obs: 
 O arquivo executável chama-se "prjAPcoders.jar" e você o encontra dentro dos arquivos postados no repositório "DesafioAPCoders" no meu GitHub, porém, para que o banco de dados esteja conectado é necessário que os arquivos "AbsouleLayout.jar","mysql-connector-java-8.0.21.jar" e "rs2xml.jar" estejam em uma mesma pasta junto com o arquivo executável, como exemplo o executável na sua área de trabalho junto com os arquivos descritos.
+
+P.s.Este é o primeiro repositório que crio no GitHub, e pretendo continuar aprimorando meu sistema de gestão de condomínio com o tempo. Me desculpe caso minhas instruções tenham ficado confusas, e por isso estarei sempre à disposição para tirar quaisquer dúvidas que possam estar surgindo no meu email: lucasrbooz@gmail.com
