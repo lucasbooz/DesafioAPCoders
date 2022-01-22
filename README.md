@@ -10,6 +10,9 @@ Baixar o Java 8 https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 Baixar a JDK 15 https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html#license-lightbox
 Baixar o Banco de Dados MySQL https://downloads.mysql.com/archives/workbench/
 
+Implementação do sistema:
+O "LRB - Sistema de gestão de condomínios", foi feito utilizando a linguagem Java, e para criar sua interface foi utilizado a biblioteca Swing para renderizar a todos os componentes de suas telas. Para o banco de dados utilizei o MySQL Workbench 8.0.26, junto com o MySQL Server.
+
 Passo a passo de como utilizar o programa LRB - Sistema de gestão de condomínios:
 
 1 - Criando o banco de dados no MySQL;
