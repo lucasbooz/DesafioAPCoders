@@ -1,17 +1,29 @@
 # DesafioAPCoders
-LRB - Sistema de gestão de condomínios
+## LRB - Sistema de gestão de condomínios
 
 Tecnologias utilizadas:
 Java, MySQL;
 
+### Pré-requisitos
 Instalações:
 Baixar Netbeans 12.4 https://netbeans.apache.org/download/nb124/nb124.html
+
 Baixar o Java 8 https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+
 Baixar a JDK 15 https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html#license-lightbox
+
 Baixar o Banco de Dados MySQL https://downloads.mysql.com/archives/workbench/
+
+### Construído com
+Tecnologias utilizadas:
+Java - Biblioteca Swing utilizada para as telas
+
+MySQL - Banco de dados utilizado
 
 Implementação do sistema:
 O "LRB - Sistema de gestão de condomínios", foi feito utilizando a linguagem Java, e para criar sua interface foi utilizado a biblioteca Swing para renderizar a todos os componentes de suas telas. Para o banco de dados utilizei o MySQL Workbench 8.0.26, junto com o MySQL Server.
+
+### Instruções de como executar
 
 Passo a passo de como utilizar o programa LRB - Sistema de gestão de condomínios:
 
@@ -20,5 +32,8 @@ Primeiramente, é nescessário possuir todas as ferramentas instaladas acima ant
 
 Obs: 
 O arquivo executável chama-se "prjAPcoders.jar" e você o encontra dentro dos arquivos postados no repositório "DesafioAPCoders" no meu GitHub, porém, para que o banco de dados esteja conectado é necessário que os arquivos "AbsouleLayout.jar","mysql-connector-java-8.0.21.jar" e "rs2xml.jar" estejam em uma mesma pasta junto com o arquivo executável, como exemplo o executável na sua área de trabalho junto com os arquivos descritos.
+
+### Licença
+Este projeto está licenciado sob a licenca MIT - veja o arquivo LICENSE para detalhes
 
 P.s.Este é o primeiro repositório que crio no GitHub, e pretendo continuar aprimorando meu sistema de gestão de condomínio com o tempo. Me desculpe caso minhas instruções tenham ficado confusas, e por isso estarei sempre à disposição para tirar quaisquer dúvidas que possam estar surgindo no meu email: lucasrbooz@gmail.com
