@@ -42,4 +42,4 @@ O arquivo executável chama-se "prjAPcoders.jar" e você o encontra dentro dos a
 ### Licença
 Este projeto está licenciado sob a licenca MIT - veja o arquivo LICENSE para detalhes
 
-P.s.Este é o primeiro repositório que crio no GitHub, e pretendo continuar aprimorando meu sistema de gestão de condomínio com o tempo. Me desculpe caso minhas instruções tenham ficado confusas, e por isso estarei sempre à disposição para tirar quaisquer dúvidas que possam estar surgindo no meu email: lucasrbooz@gmail.com
+P.s.Este é o primeiro repositório que crio no GitHub. Me desculpe caso minhas instruções tenham ficado confusas, e por isso estarei sempre à disposição para tirar quaisquer dúvidas que possam estar surgindo no meu email: lucasrbooz@gmail.com
